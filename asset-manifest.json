@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shaikh-portfolio/static/css/main.639b10c5.css",
+    "main.js": "/shaikh-portfolio/static/js/main.da18ebbd.js",
+    "index.html": "/shaikh-portfolio/index.html",
+    "main.639b10c5.css.map": "/shaikh-portfolio/static/css/main.639b10c5.css.map",
+    "main.da18ebbd.js.map": "/shaikh-portfolio/static/js/main.da18ebbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639b10c5.css",
+    "static/js/main.da18ebbd.js"
+  ]
+}
