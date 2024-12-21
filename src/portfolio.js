@@ -9,9 +9,9 @@ const about = {
   name: 'Shaikh Danial',
   description:
     'I am a tech-driven final-year IT student passionate about web development, currently delving into React and Flask technologies.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1nRXZxPP9LvKX0J5ppLjatXf8SqTYhxYq/view',
   social: {
-    linkedin: 'https://linkedin.com',
+    linkedin: 'https://www.linkedin.com/in/shaikh-danial-shaikh-abdul-halim/',
     github: 'https://github.com/shaikhdanialsah',
   },
   contact:'https://wa.me/+60193409508'

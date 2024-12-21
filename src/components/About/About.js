@@ -17,7 +17,7 @@ const About = () => {
     animate={controls}
     variants={fadeIn}>
       {name && (
-        <h1>
+        <h1 style={{textAlign:'center'}}>
           Hi, I am <span className='about__name'>{name}.</span>
         </h1>
       )}
