@@ -5,6 +5,7 @@
 
 .about__name {
   color: var(--clr-primary);
+  text-align:center;
 }
 
 .about__role {
