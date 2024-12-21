@@ -24,9 +24,9 @@ const projects = [
     name: 'AniRec+',
     description:
       'This web app project is still in progress and for the completion of my final year project',
-    stack: ['React', 'Flask', 'Data Visualization'],
-    sourceCode: 'https://github.com/shaikhdanialsah',
-    livePreview: 'https://github.com/shaikhdanialsah',
+    stack: ['React', 'Flask', 'Data Visualization', 'PostgreSQL', 'Scikit-learn', 'Vercel', 'Restful-API'],
+    sourceCode: 'https://github.com/shaikhdanialsah/Anirec-Frontend',
+    livePreview: 'https://anirec.vercel.app/',
   },
   {
     name: 'MyTNB',
@@ -56,6 +56,7 @@ const skills = [
   'Flask',
   'PHP',
   'Git',
+  'Restful-API'
 ]
 
 const contact = {
