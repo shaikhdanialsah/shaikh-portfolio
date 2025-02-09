@@ -9,7 +9,7 @@ const about = {
   name: 'Shaikh Danial',
   description:
     'I am a tech-driven final-year IT student passionate about web development, currently delving into React and Flask technologies.',
-  resume: 'https://drive.google.com/file/d/1nRXZxPP9LvKX0J5ppLjatXf8SqTYhxYq/view',
+  resume: 'https://drive.google.com/file/d/1JB1EGES05aQA1-rZEY_-a873_OhJZKoc/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/shaikh-danial-shaikh-abdul-halim/',
     github: 'https://github.com/shaikhdanialsah',
@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'AniRec+',
     description:
-      'This web app project is still in progress and for the completion of my final year project',
+      'This is a platform to get anime recommendation and visualize anime data',
     stack: ['React', 'Flask', 'Data Visualization', 'PostgreSQL', 'Scikit-learn', 'Vercel', 'Restful-API'],
     sourceCode: 'https://github.com/shaikhdanialsah/Anirec-Frontend',
     livePreview: 'https://anirec.vercel.app/',
